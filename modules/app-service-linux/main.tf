@@ -19,7 +19,7 @@
   service_plan_id           = var.service_plan_id 
   virtual_network_subnet_id = var.subnet_id
   client_affinity_enabled   = false
-   tags                     = "${var.tags}"
+  tags                      = "${var.tags}"
   site_config {
     ftps_state             = "AllAllowed"
     always_on              = var.app_service_alwayson
