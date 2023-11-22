@@ -41,8 +41,5 @@ tags = {
             network_rg_name     = "rg-pms-network-hub"
             vnet_name           = "vnet-pms-avd"
             avd01_snet_name     = "snet-pms-avd01-prd"           
-        }        
-
-     
-      
+        } 
     }
