@@ -6,6 +6,7 @@ vm_admin_username   = "netb.admin"
 vm_admin_password   = "Password1234!"
 
 
+
 tags = {
 	environment = "AVD"
 	owner       = "Owen Oriaku"
